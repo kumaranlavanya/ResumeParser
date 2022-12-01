@@ -1,0 +1,7 @@
+streamlit
+pandas
+docx2txt
+numpy
+sklearn
+nltk
+gensim
